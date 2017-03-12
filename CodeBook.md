@@ -93,7 +93,7 @@ A code book that describes the variables, the data, and any transformations or w
 
 * `WALKING`: Walking action was taken during the test
 * `WALKING_UPSTAIRS`: Walking Upstaris action was taken during the test
-* `WALKING_DOWNSTAIRS`: Walikng downstarins actin taken was during the test
+* `WALKING_DOWNSTAIRS`: Walking downstairs action taken was during the test
 * `SITTING`: Sitting action was taken during the test
 * `STANDING`: Standing action was taken during the test
 * `LAYING`: Laying action was taken during the test
