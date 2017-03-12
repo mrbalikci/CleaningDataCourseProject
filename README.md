@@ -1,5 +1,7 @@
 # Getting and Cleaning Data - Course Project
 
+This repo explains how all of the scripts work and how they are connected.
+
 Created R script called 'run_analysis.R' that does the following:
 
 1.	Download the zip file in the working directory
