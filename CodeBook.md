@@ -1,13 +1,13 @@
 # Code Book
 
-This code book summarizes the resulting data fields in `tidy.txt`.
+A code book that describes the variables, the data, and any transformations or work that performed to clean up the data fields in `tidy.txt`. 
 
-## Identifiers
+## Identifiers Used
 
-* `subject` - The ID of the test subject
-* `activity` - The type of activity performed when the corresponding measurements were taken
+* `subject` - Test subjects IDs
+* `activity` - Performed corresponding measurements
 
-## Measurements
+## Measurements Used
 
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
@@ -89,11 +89,11 @@ This code book summarizes the resulting data fields in `tidy.txt`.
 * `fBodyBodyGyroJerkMagStd`
 * `fBodyBodyGyroJerkMagMeanFreq`
 
-## Activity Labels
+## Subject Activity Labels Used 
 
-* `WALKING` (value `1`): subject was walking during the test
-* `WALKING_UPSTAIRS` (value `2`): subject was walking up a staircase during the test
-* `WALKING_DOWNSTAIRS` (value `3`): subject was walking down a staircase during the test
-* `SITTING` (value `4`): subject was sitting during the test
-* `STANDING` (value `5`): subject was standing during the test
-* `LAYING` (value `6`): subject was laying down during the test
+* `WALKING`: Walking action was taken during the test
+* `WALKING_UPSTAIRS`: Walking Upstaris action was taken during the test
+* `WALKING_DOWNSTAIRS`: Walikng downstarins actin taken was during the test
+* `SITTING`: Sitting action was taken during the test
+* `STANDING`: Standing action was taken during the test
+* `LAYING`: Laying action was taken during the test
