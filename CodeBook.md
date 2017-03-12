@@ -92,7 +92,7 @@ A code book that describes the variables, the data, and any transformations or w
 ## Subject Activity Labels Used 
 
 * `WALKING`: Walking action was taken during the test
-* `WALKING_UPSTAIRS`: Walking Upstaris action was taken during the test
+* `WALKING_UPSTAIRS`: Walking upstaris action was taken during the test
 * `WALKING_DOWNSTAIRS`: Walking downstairs action taken was during the test
 * `SITTING`: Sitting action was taken during the test
 * `STANDING`: Standing action was taken during the test
